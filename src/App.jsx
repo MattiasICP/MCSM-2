@@ -429,7 +429,7 @@ const Navigation = ({ activeTab, onTabChange, searchQuery, onSearchChange }) => 
     <div className="space-y-6 sticky top-12 bg-black z-40 pb-4">
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
         <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-600">
-          MCSM
+          MCSM-2
         </h1>
         <div className="relative w-full sm:w-64">
           <input
