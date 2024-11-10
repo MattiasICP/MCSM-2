@@ -1,5 +1,7 @@
 alpha test - expect things to be broken
 
+*some features may be removed or added*
+
 npm install
 
 npm run dev
